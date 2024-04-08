@@ -15,7 +15,7 @@ Attualmente sono uno Junior Front-End Developer, appassionato al mondo della gra
 
 👩‍💻 Attualmente mi sto formando come FullStack Developer presso i corsi dell’azienda di EPICODE
 
-🧠 Sto imparando React e Javscript
+🧠 Sto imparando React e Javascript
 
 🧑🏻‍💻 Nei miei progetti e tra i linguaggi che sto studiando è presente Javascript e React.
 
@@ -25,7 +25,6 @@ Attualmente sono uno Junior Front-End Developer, appassionato al mondo della gra
 
 📫 Contatti:
 frankricciardi98@gmail.com
-https://github.com/FR4NK798
 
 
 
