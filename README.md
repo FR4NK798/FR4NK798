@@ -9,19 +9,21 @@
 
 
 ## 🚀 About Me
-Attualmente sono uno Junior Front-End Developer, appassionato al mondo della grafica e dell’UX e UI Design.
+Attualmente sono uno Junior Front-End Developer, appassionato al mondo della grafica e dell’UX e UI Design,
+Programmazione ad oggetti e motori grafici.
 
 
 
 👩‍💻 Attualmente mi sto formando come FullStack Developer presso i corsi dell’azienda di EPICODE
 
 🧠 Sto imparando React e Javascript
+    C# e Unity 3D e Blender
 
 🧑🏻‍💻 Nei miei progetti e tra i linguaggi che sto studiando è presente Javascript e React.
 
 🏗️ Nel tempo libero accresco le mie skills in modellazione 3D.
 
-💬 Chiedimi qualcosa su HTML, CSS, Javscript, React, Blender
+💬 Possiamo parlare qualcosa su HTML, CSS, Javscript, React, Blender, C#, Unity 3D
 
 📫 Contatti:
 frankricciardi98@gmail.com
@@ -31,5 +33,11 @@ frankricciardi98@gmail.com
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-ricciardi-a93727170/)
+
+GitLab
+https://gitlab.com/frankricciardi98
+
+Talent EPICODE
+https://talent.epicode.com/talent/d51093ad-0f59-408d-b411-2e8ea7910328
 
 
